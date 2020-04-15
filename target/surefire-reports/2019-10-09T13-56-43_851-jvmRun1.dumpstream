@@ -1,0 +1,57 @@
+# Created at 2019-10-09T13:56:53.889
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: null
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created at 2019-10-09T13:56:53.996
+Unexpected IOException: 7,1,DealerTest,testGame1,null,No line found,null,No line found,DealerTest.testGame1:93 \00BB NoSuchElement No line found,java.util.NoSuchElementException: No line found\000A\0009at DealerTest.testGame1(DealerTest.java:93)\000A
+
+
+# Created at 2019-10-09T13:56:54.044
+Unexpected IOException: 5,1,DealerTest,testBankerWins,null,null,null
+
+
+# Created at 2019-10-09T13:56:54.075
+Unexpected IOException: 6,1,DealerTest,testBankerWins,null,null,null
+
+
+# Created at 2019-10-09T13:56:54.102
+Unexpected IOException: 5,1,DealerTest,testDealHand,null,null,null
+
+
+# Created at 2019-10-09T13:56:54.128
+Unexpected IOException: 6,1,DealerTest,testDealHand,null,null,null
+
+
+# Created at 2019-10-09T13:56:54.157
+Unexpected IOException: 5,1,DealerTest,testDeckSize,null,null,null
+
+
+# Created at 2019-10-09T13:56:54.185
+Unexpected IOException: 6,1,DealerTest,testDeckSize,null,null,null
+
+
+# Created at 2019-10-09T13:56:54.212
+Unexpected IOException: 5,1,DealerTest,testPlayerWins,null,null,null
+
+
+# Created at 2019-10-09T13:56:54.238
+Unexpected IOException: 6,1,DealerTest,testPlayerWins,null,null,null
+
+
+# Created at 2019-10-09T13:56:54.245
+Unexpected IOException: 5,1,DealerTest,testDrawOne,null,null,null
+
+
+# Created at 2019-10-09T13:56:54.271
+Unexpected IOException: 6,1,DealerTest,testDrawOne,null,null,null
+
+
+# Created at 2019-10-09T13:56:54.304
+Unexpected IOException: 2,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,DealerTest,null,null,null
+
+
