@@ -13,6 +13,8 @@ It is developed as a Maven project.
 - If either the Banker's hand or the Player's hand add up to 8 or 9, it's a natural win and the game is over. 
 - The winning hand is the one with a total of 9 or as close to 9 as possible.
 
+Resource for more detailed rules: https://www.fgbradleys.com/rules/rules4/Baccarat%20-%20rules.pdf
+
 #### Player
 If the player's hand totals to 5 or less, the Player gets dealt another card. If the hand totals to 6 or 7 points, no more cards are dealt. 
 
