@@ -1,7 +1,7 @@
-#  ♣ ♤ ♠ Baccarat Poker Game in JAVA using JavaFX ♠ ♤ ♣
+#  ♣ ♤ ♠ Baccarat ♠ ♤ ♣
 ## About
 This program is an implementation of a one player version of the casino game Baccarat. 
-It is developed as a Maven project. 
+It is developed as a Maven project in JAVA using JavaFX
 
 ## How it works:
 #### Rules 
