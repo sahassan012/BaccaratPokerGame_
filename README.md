@@ -1,4 +1,5 @@
-  ->♣ ♤ ♠ Baccarat ♠ ♤ ♣<-
+<center><h1>♣ ♤ ♠ Baccarat ♠ ♤ ♣</h1></center>
+  
 ## About
 This program is an implementation of a one player version of the casino game Baccarat. 
 It is developed as a Maven project in JAVA using JavaFX
